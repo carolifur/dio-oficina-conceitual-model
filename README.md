@@ -36,3 +36,5 @@ Vínculo de Equipe: Uma equipe é designada para a OS, e cada equipe é composta
 Draw.io para a criação do diagrama.
 
 Git/GitHub para versionamento da documentação.
+
+![Diagrama do Esquema Conceitual](./Construindo%20um%20Esquema%20Conceitual%20para%20Banco%20De%20dados.drawio.png)
