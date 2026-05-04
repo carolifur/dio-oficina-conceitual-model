@@ -37,4 +37,4 @@ Draw.io para a criação do diagrama.
 
 Git/GitHub para versionamento da documentação.
 
-[https://github.com/carolifur/dio-oficina-conceitual-model/dio-oficina-mecanica.png]
+https://github.com/carolifur/dio-oficina-conceitual-model/dio-oficina-mecanica.png
