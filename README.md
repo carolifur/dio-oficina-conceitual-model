@@ -37,4 +37,4 @@ Draw.io para a criação do diagrama.
 
 Git/GitHub para versionamento da documentação.
 
-![Diagrama do Esquema Conceitual](./Construindo%20um%20Esquema%20Conceitual%20para%20Banco%20De%20dados.drawio.png)
+[https://github.com/carolifur/dio-oficina-conceitual-model/dio-oficina-mecanica.png]
